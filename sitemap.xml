@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://yuyuya.icu/personal/love/index.html</loc>
+    
+    <lastmod>2025-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yuyuya.icu/social/fcircle/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://yuyuya.icu/site/time/index.html</loc>
-    
-    <lastmod>2025-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuyuya.icu/personal/love/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
     
@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://yuyuya.icu/life/movies/index.html</loc>
-    
-    <lastmod>2025-06-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yuyuya.icu/life/games/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://yuyuya.icu/categories/index.html</loc>
+    <loc>https://yuyuya.icu/life/movies/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://yuyuya.icu/box/animation/index.html</loc>
+    <loc>https://yuyuya.icu/categories/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
     
@@ -138,6 +129,15 @@
   
   <url>
     <loc>https://yuyuya.icu/box/nav/index.html</loc>
+    
+    <lastmod>2025-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuyuya.icu/box/animation/index.html</loc>
     
     <lastmod>2025-06-17</lastmod>
     

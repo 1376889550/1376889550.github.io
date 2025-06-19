@@ -3174,7 +3174,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(/assets/home_bg .jpg);
+    --default-bg: url(/assets/home_bg.jpg);
     --darkmode-bg:url(/assets/dark_mode.webp);
     --mobileday-bg: url(/assets/snow.webp);
     --mobilenight-bg: url(/assets/mb8.webp);
