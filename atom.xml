@@ -3,11 +3,11 @@
   <title>Yuyu🍭</title>
   
   
-  <link href="https://yuyuya.icu/atom.xml" rel="self"/>
+  <link href="https://yuyuya.xin/atom.xml" rel="self"/>
   
-  <link href="https://yuyuya.icu/"/>
+  <link href="https://yuyuya.xin/"/>
   <updated>2025-06-17T16:36:42.004Z</updated>
-  <id>https://yuyuya.icu/</id>
+  <id>https://yuyuya.xin/</id>
   
   <author>
     <name>Yuyu🍭</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>你好</title>
-    <link href="https://yuyuya.icu/posts/50a2b841.html"/>
-    <id>https://yuyuya.icu/posts/50a2b841.html</id>
+    <link href="https://yuyuya.xin/posts/50a2b841.html"/>
+    <id>https://yuyuya.xin/posts/50a2b841.html</id>
     <published>2025-06-18T16:01:59.655Z</published>
     <updated>2025-06-17T16:36:42.004Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="演示" scheme="https://yuyuya.icu/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://yuyuya.xin/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://yuyuya.icu/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://yuyuya.xin/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://yuyuya.icu/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://yuyuya.xin/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://yuyuya.icu/posts/2013454d.html"/>
-    <id>https://yuyuya.icu/posts/2013454d.html</id>
+    <link href="https://yuyuya.xin/posts/2013454d.html"/>
+    <id>https://yuyuya.xin/posts/2013454d.html</id>
     <published>2025-06-16T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -53,12 +53,12 @@
     
     
     
-    <category term="演示" scheme="https://yuyuya.icu/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://yuyuya.xin/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://yuyuya.icu/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://yuyuya.xin/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://yuyuya.icu/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://yuyuya.xin/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
